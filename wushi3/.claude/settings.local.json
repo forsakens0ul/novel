@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(touch /mnt/e/2/新建文件夹/novel1/wushi3/chapter11_guodegang_style.md)"
+    ],
+    "deny": []
+  }
+}

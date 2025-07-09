@@ -1,0 +1,2714 @@
+[
+  {
+    "from": 0.18,
+    "to": 4.04,
+    "sid": 1,
+    "location": 2,
+    "content": "话说咱们这山姆老师接了天字第一号的黄差",
+    "music": 0
+  },
+  {
+    "from": 4.04,
+    "to": 5.58,
+    "sid": 2,
+    "location": 2,
+    "content": "要保着连接器",
+    "music": 0
+  },
+  {
+    "from": 5.58,
+    "to": 7.439,
+    "sid": 3,
+    "location": 2,
+    "content": "这标横穿全美",
+    "music": 0
+  },
+  {
+    "from": 7.439,
+    "to": 9.829,
+    "sid": 4,
+    "location": 2,
+    "content": "心里头是100个不乐意",
+    "music": 0
+  },
+  {
+    "from": 9.829,
+    "to": 14.169,
+    "sid": 5,
+    "location": 2,
+    "content": "之前保这趟镖的要么是把自己的牛杀了",
+    "music": 0
+  },
+  {
+    "from": 14.169,
+    "to": 16.67,
+    "sid": 6,
+    "location": 2,
+    "content": "要么是把自己哥哥给宰了",
+    "music": 0
+  },
+  {
+    "from": 16.67,
+    "to": 19.67,
+    "sid": 7,
+    "location": 2,
+    "content": "山姆他一没牛二没哥哥的",
+    "music": 0
+  },
+  {
+    "from": 19.67,
+    "to": 22.19,
+    "sid": 8,
+    "location": 2,
+    "content": "这镖保着有个什么劲呢",
+    "music": 0
+  },
+  {
+    "from": 22.19,
+    "to": 25.4,
+    "sid": 9,
+    "location": 2,
+    "content": "可人在屋檐下不得不低头",
+    "music": 0
+  },
+  {
+    "from": 25.4,
+    "to": 28.4,
+    "sid": 10,
+    "location": 2,
+    "content": "一边是楚楚可怜的姐姐亚美丽",
+    "music": 0
+  },
+  {
+    "from": 28.4,
+    "to": 30.64,
+    "sid": 11,
+    "location": 2,
+    "content": "一边是离了她就得报废的",
+    "music": 0
+  },
+  {
+    "from": 30.64,
+    "to": 33.18,
+    "sid": 12,
+    "location": 2,
+    "content": "避避得走吧",
+    "music": 0
+  },
+  {
+    "from": 33.18,
+    "to": 34.64,
+    "sid": 13,
+    "location": 2,
+    "content": "就这么着",
+    "music": 0
+  },
+  {
+    "from": 34.64,
+    "to": 40.57,
+    "sid": 14,
+    "location": 2,
+    "content": "山姆是背上行囊踏上了西行的漫漫长路",
+    "music": 0
+  },
+  {
+    "from": 40.93,
+    "to": 44.53,
+    "sid": 15,
+    "location": 2,
+    "content": "这一路是比唐僧取经还难人",
+    "music": 0
+  },
+  {
+    "from": 44.53,
+    "to": 46.75,
+    "sid": 16,
+    "location": 2,
+    "content": "唐僧那边好歹还有仨徒弟呢",
+    "music": 0
+  },
+  {
+    "from": 46.75,
+    "to": 48.85,
+    "sid": 17,
+    "location": 2,
+    "content": "打不过就喊猴哥得了",
+    "music": 0
+  },
+  {
+    "from": 48.85,
+    "to": 53.56,
+    "sid": 18,
+    "location": 2,
+    "content": "可咱这山姆呢就一个不会说话的婴儿雷达",
+    "music": 0
+  },
+  {
+    "from": 53.56,
+    "to": 55.96,
+    "sid": 19,
+    "location": 2,
+    "content": "外加一堆大包小行李",
+    "music": 0
+  },
+  {
+    "from": 55.96,
+    "to": 58.5,
+    "sid": 20,
+    "location": 2,
+    "content": "那家伙可沉了去了",
+    "music": 0
+  },
+  {
+    "from": 58.5,
+    "to": 60.64,
+    "sid": 21,
+    "location": 2,
+    "content": "里头有吃的喝的用的",
+    "music": 0
+  },
+  {
+    "from": 60.64,
+    "to": 61.76,
+    "sid": 22,
+    "location": 2,
+    "content": "修路的材料",
+    "music": 0
+  },
+  {
+    "from": 61.76,
+    "to": 63.28,
+    "sid": 23,
+    "location": 2,
+    "content": "开通网络的连接器",
+    "music": 0
+  },
+  {
+    "from": 63.28,
+    "to": 65.96,
+    "sid": 24,
+    "location": 2,
+    "content": "还有几件防身的家伙事",
+    "music": 0
+  },
+  {
+    "from": 65.96,
+    "to": 69.32,
+    "sid": 25,
+    "location": 2,
+    "content": "列位一般的牲口可驮不了这么老些",
+    "music": 0
+  },
+  {
+    "from": 70.32,
+    "to": 74.97,
+    "sid": 26,
+    "location": 2,
+    "content": "可现在就山姆一个人是独自扛下了所有山姆",
+    "music": 0
+  },
+  {
+    "from": 74.97,
+    "to": 78.05,
+    "sid": 27,
+    "location": 2,
+    "content": "现在命你为第二远征队的队长",
+    "music": 0
+  },
+  {
+    "from": 78.05,
+    "to": 79.71,
+    "sid": 28,
+    "location": 2,
+    "content": "即刻出发",
+    "music": 0
+  },
+  {
+    "from": 79.71,
+    "to": 84.77,
+    "sid": 29,
+    "location": 2,
+    "content": "硬汉通过全息投影给他下达了最后的命令",
+    "music": 0
+  },
+  {
+    "from": 85.09,
+    "to": 87.21,
+    "sid": 30,
+    "location": 2,
+    "content": "山姆听完心里是直骂界",
+    "music": 0
+  },
+  {
+    "from": 87.21,
+    "to": 88.77,
+    "sid": 31,
+    "location": 2,
+    "content": "你给翻译翻译什么",
+    "music": 0
+  },
+  {
+    "from": 88.77,
+    "to": 90.49,
+    "sid": 32,
+    "location": 2,
+    "content": "他妈的叫他妈的",
+    "music": 0
+  },
+  {
+    "from": 90.49,
+    "to": 93.389,
+    "sid": 33,
+    "location": 2,
+    "content": "远征队就我一光杆司令",
+    "music": 0
+  },
+  {
+    "from": 93.389,
+    "to": 94.94,
+    "sid": 34,
+    "location": 2,
+    "content": "这不糊弄鬼吗",
+    "music": 0
+  },
+  {
+    "from": 94.94,
+    "to": 98.4,
+    "sid": 35,
+    "location": 2,
+    "content": "当年于谦好歹还有个侯震当副队长呢",
+    "music": 0
+  },
+  {
+    "from": 98.4,
+    "to": 101.46,
+    "sid": 36,
+    "location": 2,
+    "content": "自己这待遇跟于谦的岳父",
+    "music": 0
+  },
+  {
+    "from": 101.46,
+    "to": 104.47,
+    "sid": 37,
+    "location": 2,
+    "content": "蒙古国海军司令有什么区别",
+    "music": 0
+  },
+  {
+    "from": 104.73,
+    "to": 105.87,
+    "sid": 38,
+    "location": 2,
+    "content": "就这么着",
+    "music": 0
+  },
+  {
+    "from": 105.87,
+    "to": 108.87,
+    "sid": 39,
+    "location": 2,
+    "content": "山姆老师是离开了首都节点城",
+    "music": 0
+  },
+  {
+    "from": 108.87,
+    "to": 112.5,
+    "sid": 40,
+    "location": 2,
+    "content": "向着西北方向的一个中继站前进",
+    "music": 0
+  },
+  {
+    "from": 112.5,
+    "to": 115.64,
+    "sid": 41,
+    "location": 2,
+    "content": "这中继站就跟古代的驿站似的",
+    "music": 0
+  },
+  {
+    "from": 115.64,
+    "to": 118.09,
+    "sid": 42,
+    "location": 2,
+    "content": "负责传递物资和情报",
+    "music": 0
+  },
+  {
+    "from": 118.09,
+    "to": 121.27,
+    "sid": 43,
+    "location": 2,
+    "content": "这一路上山姆心里就琢磨开了",
+    "music": 0
+  },
+  {
+    "from": 121.27,
+    "to": 124.94,
+    "sid": 44,
+    "location": 2,
+    "content": "这世界怎么就变成这样了呢",
+    "music": 0
+  },
+  {
+    "from": 124.94,
+    "to": 127.14,
+    "sid": 45,
+    "location": 2,
+    "content": "他之前看过老电影",
+    "music": 0
+  },
+  {
+    "from": 127.14,
+    "to": 130.43,
+    "sid": 46,
+    "location": 2,
+    "content": "当然不是两三个人就能演完的那种",
+    "music": 0
+  },
+  {
+    "from": 130.43,
+    "to": 133.05,
+    "sid": 47,
+    "location": 2,
+    "content": "那时候满处是高楼大厦",
+    "music": 0
+  },
+  {
+    "from": 133.05,
+    "to": 134.33,
+    "sid": 48,
+    "location": 2,
+    "content": "车水马龙",
+    "music": 0
+  },
+  {
+    "from": 134.33,
+    "to": 136.89,
+    "sid": 49,
+    "location": 2,
+    "content": "现在呢全是荒郊野地",
+    "music": 0
+  },
+  {
+    "from": 136.89,
+    "to": 138.46,
+    "sid": 50,
+    "location": 2,
+    "content": "碎石遍布",
+    "music": 0
+  },
+  {
+    "from": 138.46,
+    "to": 140.94,
+    "sid": 51,
+    "location": 2,
+    "content": "走两步恨不得就得歇三歇",
+    "music": 0
+  },
+  {
+    "from": 142.06,
+    "to": 144.56,
+    "sid": 52,
+    "location": 2,
+    "content": "自己脚底下那双内联升的布鞋",
+    "music": 0
+  },
+  {
+    "from": 144.56,
+    "to": 146.49,
+    "sid": 53,
+    "location": 2,
+    "content": "都快磨的不成样了",
+    "music": 0
+  },
+  {
+    "from": 146.49,
+    "to": 149.47,
+    "sid": 54,
+    "location": 2,
+    "content": "好在中继站离节点城不算远",
+    "music": 0
+  },
+  {
+    "from": 149.47,
+    "to": 152.72,
+    "sid": 55,
+    "location": 2,
+    "content": "已经模模糊糊能看出它的轮廓了",
+    "music": 0
+  },
+  {
+    "from": 152.72,
+    "to": 154.18,
+    "sid": 56,
+    "location": 2,
+    "content": "这中继站",
+    "music": 0
+  },
+  {
+    "from": 154.18,
+    "to": 156.72,
+    "sid": 57,
+    "location": 2,
+    "content": "那是远瞧雾气昭昭",
+    "music": 0
+  },
+  {
+    "from": 156.72,
+    "to": 158.94,
+    "sid": 58,
+    "location": 2,
+    "content": "近看瓦窑四梢",
+    "music": 0
+  },
+  {
+    "from": 158.94,
+    "to": 161.98,
+    "sid": 59,
+    "location": 2,
+    "content": "就跟一整块砖扣的似的",
+    "music": 0
+  },
+  {
+    "from": 161.98,
+    "to": 165.38,
+    "sid": 60,
+    "location": 2,
+    "content": "这是当年第一远征队留下的据点",
+    "music": 0
+  },
+  {
+    "from": 165.38,
+    "to": 167.96,
+    "sid": 61,
+    "location": 2,
+    "content": "现在跟个孤零零的碉堡似的",
+    "music": 0
+  },
+  {
+    "from": 167.96,
+    "to": 169.66,
+    "sid": 62,
+    "location": 2,
+    "content": "杵在荒野里",
+    "music": 0
+  },
+  {
+    "from": 169.66,
+    "to": 173.74,
+    "sid": 63,
+    "location": 2,
+    "content": "这儿的站长呢是个叫乔治的中年人",
+    "music": 0
+  },
+  {
+    "from": 173.74,
+    "to": 176.12,
+    "sid": 64,
+    "location": 2,
+    "content": "他还有个姐姐叫佩奇",
+    "music": 0
+  },
+  {
+    "from": 176.12,
+    "to": 179.289,
+    "sid": 65,
+    "location": 2,
+    "content": "听着就那么社会3年了",
+    "music": 0
+  },
+  {
+    "from": 179.289,
+    "to": 181.349,
+    "sid": 66,
+    "location": 2,
+    "content": "他们就守着这么个破地方",
+    "music": 0
+  },
+  {
+    "from": 181.349,
+    "to": 184.12,
+    "sid": 67,
+    "location": 2,
+    "content": "天天是盼着总部的消息",
+    "music": 0
+  },
+  {
+    "from": 184.12,
+    "to": 187.1,
+    "sid": 68,
+    "location": 2,
+    "content": "你知道他们这3年是怎么过的吗",
+    "music": 0
+  },
+  {
+    "from": 187.1,
+    "to": 190.14,
+    "sid": 69,
+    "location": 2,
+    "content": "结果前两天听说中央节点城炸了",
+    "music": 0
+  },
+  {
+    "from": 190.14,
+    "to": 192.32,
+    "sid": 70,
+    "location": 2,
+    "content": "这帮人差点就地解散",
+    "music": 0
+  },
+  {
+    "from": 192.32,
+    "to": 194.52,
+    "sid": 71,
+    "location": 2,
+    "content": "卷铺盖回高老庄了",
+    "music": 0
+  },
+  {
+    "from": 194.52,
+    "to": 197.72,
+    "sid": 72,
+    "location": 2,
+    "content": "好在后来又听说总部还在",
+    "music": 0
+  },
+  {
+    "from": 197.72,
+    "to": 199.46,
+    "sid": 73,
+    "location": 2,
+    "content": "远征队也出发了",
+    "music": 0
+  },
+  {
+    "from": 199.46,
+    "to": 201.82,
+    "sid": 74,
+    "location": 2,
+    "content": "这才又燃起了希望",
+    "music": 0
+  },
+  {
+    "from": 202.02,
+    "to": 205.66,
+    "sid": 75,
+    "location": 2,
+    "content": "乔治通过监控老早就看见山姆了",
+    "music": 0
+  },
+  {
+    "from": 205.66,
+    "to": 208.76,
+    "sid": 76,
+    "location": 2,
+    "content": "一开始还以为是远征队大部队来了",
+    "music": 0
+  },
+  {
+    "from": 208.76,
+    "to": 210.69,
+    "sid": 77,
+    "location": 2,
+    "content": "激动的眼泪汪汪",
+    "music": 0
+  },
+  {
+    "from": 210.69,
+    "to": 212.71,
+    "sid": 78,
+    "location": 2,
+    "content": "等山姆进了集货区",
+    "music": 0
+  },
+  {
+    "from": 212.71,
+    "to": 214.25,
+    "sid": 79,
+    "location": 2,
+    "content": "把货一卸",
+    "music": 0
+  },
+  {
+    "from": 214.25,
+    "to": 217.87,
+    "sid": 80,
+    "location": 2,
+    "content": "乔治马上就通过全息投影跟他说话了",
+    "music": 0
+  },
+  {
+    "from": 217.87,
+    "to": 219.51,
+    "sid": 81,
+    "location": 2,
+    "content": "你咋菜来捏",
+    "music": 0
+  },
+  {
+    "from": 219.51,
+    "to": 221.64,
+    "sid": 82,
+    "location": 2,
+    "content": "咱大部队搁哪嘞",
+    "music": 0
+  },
+  {
+    "from": 221.64,
+    "to": 223.68,
+    "sid": 83,
+    "location": 2,
+    "content": "山姆说哪有大部队",
+    "music": 0
+  },
+  {
+    "from": 223.68,
+    "to": 224.82,
+    "sid": 84,
+    "location": 2,
+    "content": "要不这么着",
+    "music": 0
+  },
+  {
+    "from": 224.82,
+    "to": 226.959,
+    "sid": 85,
+    "location": 2,
+    "content": "你面前的是传奇快递员",
+    "music": 0
+  },
+  {
+    "from": 226.959,
+    "to": 228.659,
+    "sid": 86,
+    "location": 2,
+    "content": "卫星城爆炸嫌犯",
+    "music": 0
+  },
+  {
+    "from": 228.659,
+    "to": 231.899,
+    "sid": 87,
+    "location": 2,
+    "content": "中央节点城幸存者遣返鬼见愁",
+    "music": 0
+  },
+  {
+    "from": 231.899,
+    "to": 236.16,
+    "sid": 88,
+    "location": 2,
+    "content": "养母焚烧者山姆波特布里吉斯",
+    "music": 0
+  },
+  {
+    "from": 236.16,
+    "to": 239.64,
+    "sid": 89,
+    "location": 2,
+    "content": "你们中继站能容得下这么多人不",
+    "music": 0
+  },
+  {
+    "from": 239.92,
+    "to": 243.64,
+    "sid": 90,
+    "location": 2,
+    "content": "乔治听完那哭的叫一个惊天动地",
+    "music": 0
+  },
+  {
+    "from": 243.64,
+    "to": 245.81,
+    "sid": 91,
+    "location": 2,
+    "content": "鼻涕眼泪一把抓",
+    "music": 0
+  },
+  {
+    "from": 246.05,
+    "to": 247.81,
+    "sid": 92,
+    "location": 2,
+    "content": "盼星星盼月亮",
+    "music": 0
+  },
+  {
+    "from": 247.81,
+    "to": 250.29,
+    "sid": 93,
+    "location": 2,
+    "content": "可算把王石给盼来了",
+    "music": 0
+  },
+  {
+    "from": 250.29,
+    "to": 251.79,
+    "sid": 94,
+    "location": 2,
+    "content": "虽然就来了一位",
+    "music": 0
+  },
+  {
+    "from": 251.79,
+    "to": 254.33,
+    "sid": 95,
+    "location": 2,
+    "content": "可就冲您这一人成军的气势",
+    "music": 0
+  },
+  {
+    "from": 254.33,
+    "to": 258.63,
+    "sid": 96,
+    "location": 2,
+    "content": "真是王室山姆被他搞得挺不好意思",
+    "music": 0
+  },
+  {
+    "from": 258.63,
+    "to": 262.33,
+    "sid": 97,
+    "location": 2,
+    "content": "赶紧拿出连接器往终端机上一插",
+    "music": 0
+  },
+  {
+    "from": 262.33,
+    "to": 264.19,
+    "sid": 98,
+    "location": 2,
+    "content": "只觉得眼前一花",
+    "music": 0
+  },
+  {
+    "from": 264.19,
+    "to": 265.95,
+    "sid": 99,
+    "location": 2,
+    "content": "身体轻飘飘的",
+    "music": 0
+  },
+  {
+    "from": 265.95,
+    "to": 268.07,
+    "sid": 100,
+    "location": 2,
+    "content": "跟喝了二两假酒似的",
+    "music": 0
+  },
+  {
+    "from": 268.07,
+    "to": 270.53,
+    "sid": 101,
+    "location": 2,
+    "content": "BB在他怀里还乐了",
+    "music": 0
+  },
+  {
+    "from": 270.53,
+    "to": 272.35,
+    "sid": 102,
+    "location": 2,
+    "content": "只听到裤衩儿一声",
+    "music": 0
+  },
+  {
+    "from": 272.35,
+    "to": 274.95,
+    "sid": 103,
+    "location": 2,
+    "content": "整个中继站的灯都亮了",
+    "music": 0
+  },
+  {
+    "from": 274.95,
+    "to": 275.99,
+    "sid": 104,
+    "location": 2,
+    "content": "中继站",
+    "music": 0
+  },
+  {
+    "from": 275.99,
+    "to": 279.27,
+    "sid": 105,
+    "location": 2,
+    "content": "这就算是接上开罗尔网络了",
+    "music": 0
+  },
+  {
+    "from": 279.55,
+    "to": 281.89,
+    "sid": 106,
+    "location": 2,
+    "content": "乔治是喜极而泣啊",
+    "music": 0
+  },
+  {
+    "from": 281.89,
+    "to": 283.09,
+    "sid": 107,
+    "location": 2,
+    "content": "您可能要问了",
+    "music": 0
+  },
+  {
+    "from": 283.09,
+    "to": 285.59,
+    "sid": 108,
+    "location": 2,
+    "content": "连个网至于的吗",
+    "music": 0
+  },
+  {
+    "from": 285.59,
+    "to": 287.71,
+    "sid": 109,
+    "location": 2,
+    "content": "您这就是有所不知了",
+    "music": 0
+  },
+  {
+    "from": 287.71,
+    "to": 291.429,
+    "sid": 110,
+    "location": 2,
+    "content": "感情通过开罗尔网络连上名单之后",
+    "music": 0
+  },
+  {
+    "from": 291.429,
+    "to": 293.309,
+    "sid": 111,
+    "location": 2,
+    "content": "只要是没有生命的东西",
+    "music": 0
+  },
+  {
+    "from": 293.309,
+    "to": 295.53,
+    "sid": 112,
+    "location": 2,
+    "content": "就都可以快速传输了",
+    "music": 0
+  },
+  {
+    "from": 295.53,
+    "to": 298.23,
+    "sid": 113,
+    "location": 2,
+    "content": "就比如说咱们这山姆老师",
+    "music": 0
+  },
+  {
+    "from": 298.23,
+    "to": 299.81,
+    "sid": 114,
+    "location": 2,
+    "content": "如果需要一支钢笔",
+    "music": 0
+  },
+  {
+    "from": 299.81,
+    "to": 302.42,
+    "sid": 115,
+    "location": 2,
+    "content": "只需要把手往身后一背",
+    "music": 0
+  },
+  {
+    "from": 302.42,
+    "to": 304.9,
+    "sid": 116,
+    "location": 2,
+    "content": "噗的一声就能变出来",
+    "music": 0
+  },
+  {
+    "from": 304.9,
+    "to": 306.96,
+    "sid": 117,
+    "location": 2,
+    "content": "可就算是脱光了",
+    "music": 0
+  },
+  {
+    "from": 306.96,
+    "to": 309.44,
+    "sid": 118,
+    "location": 2,
+    "content": "咱都找不着藏在哪儿",
+    "music": 0
+  },
+  {
+    "from": 309.44,
+    "to": 311.76,
+    "sid": 119,
+    "location": 2,
+    "content": "靠的就是开罗尔网络",
+    "music": 0
+  },
+  {
+    "from": 311.76,
+    "to": 314.34,
+    "sid": 120,
+    "location": 2,
+    "content": "眼看第一项任务算是完成了",
+    "music": 0
+  },
+  {
+    "from": 314.34,
+    "to": 318.15,
+    "sid": 121,
+    "location": 2,
+    "content": "山姆打算继续向西去配送中心",
+    "music": 0
+  },
+  {
+    "from": 318.43,
+    "to": 320.45,
+    "sid": 122,
+    "location": 2,
+    "content": "乔治在后头就提醒了",
+    "music": 0
+  },
+  {
+    "from": 320.45,
+    "to": 322.77,
+    "sid": 123,
+    "location": 2,
+    "content": "那边有好多米尔人",
+    "music": 0
+  },
+  {
+    "from": 322.77,
+    "to": 325.36,
+    "sid": 124,
+    "location": 2,
+    "content": "您路上可得多加小心",
+    "music": 0
+  },
+  {
+    "from": 325.36,
+    "to": 329.12,
+    "sid": 125,
+    "location": 2,
+    "content": "那么说这米尔人又是个什么玩意儿呢",
+    "music": 0
+  },
+  {
+    "from": 329.12,
+    "to": 331.3,
+    "sid": 126,
+    "location": 2,
+    "content": "敢情这也是一群送货员",
+    "music": 0
+  },
+  {
+    "from": 331.3,
+    "to": 334.7,
+    "sid": 127,
+    "location": 2,
+    "content": "不过这帮人送货送上瘾了",
+    "music": 0
+  },
+  {
+    "from": 334.7,
+    "to": 335.42,
+    "sid": 128,
+    "location": 2,
+    "content": "得了",
+    "music": 0
+  },
+  {
+    "from": 335.42,
+    "to": 337.039,
+    "sid": 129,
+    "location": 2,
+    "content": "送货依赖症候群",
+    "music": 0
+  },
+  {
+    "from": 337.039,
+    "to": 339.139,
+    "sid": 130,
+    "location": 2,
+    "content": "看见包裹就两眼放光",
+    "music": 0
+  },
+  {
+    "from": 339.139,
+    "to": 341.03,
+    "sid": 131,
+    "location": 2,
+    "content": "非得抢过来不可",
+    "music": 0
+  },
+  {
+    "from": 341.03,
+    "to": 341.91,
+    "sid": 132,
+    "location": 2,
+    "content": "抢到手",
+    "music": 0
+  },
+  {
+    "from": 341.91,
+    "to": 345.03,
+    "sid": 133,
+    "location": 2,
+    "content": "也不用跟旧社会的地主老财囤积粮食",
+    "music": 0
+  },
+  {
+    "from": 345.03,
+    "to": 346.07,
+    "sid": 134,
+    "location": 2,
+    "content": "一个德行",
+    "music": 0
+  },
+  {
+    "from": 346.07,
+    "to": 348.19,
+    "sid": 135,
+    "location": 2,
+    "content": "纯粹是心里有病",
+    "music": 0
+  },
+  {
+    "from": 348.51,
+    "to": 350.09,
+    "sid": 136,
+    "location": 2,
+    "content": "山姆刚下山坡",
+    "music": 0
+  },
+  {
+    "from": 350.09,
+    "to": 353.21,
+    "sid": 137,
+    "location": 2,
+    "content": "就看见河对岸有几个人影晃动",
+    "music": 0
+  },
+  {
+    "from": 353.21,
+    "to": 356.94,
+    "sid": 138,
+    "location": 2,
+    "content": "鬼鬼祟祟的得说曹操",
+    "music": 0
+  },
+  {
+    "from": 356.94,
+    "to": 359.58,
+    "sid": 139,
+    "location": 2,
+    "content": "曹操到正是那帮米尔人",
+    "music": 0
+  },
+  {
+    "from": 359.58,
+    "to": 361.74,
+    "sid": 140,
+    "location": 2,
+    "content": "都是短衣襟小打扮",
+    "music": 0
+  },
+  {
+    "from": 361.74,
+    "to": 363.72,
+    "sid": 141,
+    "location": 2,
+    "content": "雁别翅排开",
+    "music": 0
+  },
+  {
+    "from": 363.72,
+    "to": 365.96,
+    "sid": 142,
+    "location": 2,
+    "content": "中间闪出一个黑大个儿",
+    "music": 0
+  },
+  {
+    "from": 365.96,
+    "to": 370.04,
+    "sid": 143,
+    "location": 2,
+    "content": "这大黑脑袋戴此山是我开",
+    "music": 0
+  },
+  {
+    "from": 370.04,
+    "to": 371.7,
+    "sid": 144,
+    "location": 2,
+    "content": "此树是我栽",
+    "music": 0
+  },
+  {
+    "from": 371.7,
+    "to": 373.64,
+    "sid": 145,
+    "location": 2,
+    "content": "要想从此过",
+    "music": 0
+  },
+  {
+    "from": 373.64,
+    "to": 375.68,
+    "sid": 146,
+    "location": 2,
+    "content": "留下裤子来",
+    "music": 0
+  },
+  {
+    "from": 375.88,
+    "to": 378.54,
+    "sid": 147,
+    "location": 2,
+    "content": "这帮人看见山姆背着满当当的货",
+    "music": 0
+  },
+  {
+    "from": 378.54,
+    "to": 381.2,
+    "sid": 148,
+    "location": 2,
+    "content": "一个个眼睛里冒出红光",
+    "music": 0
+  },
+  {
+    "from": 381.2,
+    "to": 383.4,
+    "sid": 149,
+    "location": 2,
+    "content": "就跟那非洲动物大迁徙",
+    "music": 0
+  },
+  {
+    "from": 383.4,
+    "to": 385.68,
+    "sid": 150,
+    "location": 2,
+    "content": "被落下的那几头公鹿一样",
+    "music": 0
+  },
+  {
+    "from": 385.68,
+    "to": 388.01,
+    "sid": 151,
+    "location": 2,
+    "content": "嗷嗷叫着就扑了上来",
+    "music": 0
+  },
+  {
+    "from": 388.01,
+    "to": 389.65,
+    "sid": 152,
+    "location": 2,
+    "content": "山姆这个气呀",
+    "music": 0
+  },
+  {
+    "from": 389.65,
+    "to": 392.07,
+    "sid": 153,
+    "location": 2,
+    "content": "自己是想跑也跑不快",
+    "music": 0
+  },
+  {
+    "from": 392.07,
+    "to": 396.549,
+    "sid": 154,
+    "location": 2,
+    "content": "一根标枪嗖的就擦着他耳朵飞过去了",
+    "music": 0
+  },
+  {
+    "from": 396.549,
+    "to": 399.709,
+    "sid": 155,
+    "location": 2,
+    "content": "这帮孙子是真下死手啊",
+    "music": 0
+  },
+  {
+    "from": 399.83,
+    "to": 400.99,
+    "sid": 156,
+    "location": 2,
+    "content": "正要扔下货",
+    "music": 0
+  },
+  {
+    "from": 400.99,
+    "to": 402.11,
+    "sid": 157,
+    "location": 2,
+    "content": "跟他们拼了",
+    "music": 0
+  },
+  {
+    "from": 402.11,
+    "to": 404.67,
+    "sid": 158,
+    "location": 2,
+    "content": "胸前的哔哔哇的哭了",
+    "music": 0
+  },
+  {
+    "from": 404.67,
+    "to": 407.679,
+    "sid": 159,
+    "location": 2,
+    "content": "紧接着天歘就黑了",
+    "music": 0
+  },
+  {
+    "from": 407.679,
+    "to": 410.919,
+    "sid": 160,
+    "location": 2,
+    "content": "一道倒挂的彩虹出现在天上",
+    "music": 0
+  },
+  {
+    "from": 410.919,
+    "to": 413.239,
+    "sid": 161,
+    "location": 2,
+    "content": "时间雨是倾盆而下",
+    "music": 0
+  },
+  {
+    "from": 413.239,
+    "to": 416.78,
+    "sid": 162,
+    "location": 2,
+    "content": "BT瞬间就把众人给围了",
+    "music": 0
+  },
+  {
+    "from": 416.98,
+    "to": 419.14,
+    "sid": 163,
+    "location": 2,
+    "content": "那帮米尔人一看来者不善",
+    "music": 0
+  },
+  {
+    "from": 419.14,
+    "to": 420.72,
+    "sid": 164,
+    "location": 2,
+    "content": "是掉头就跑",
+    "music": 0
+  },
+  {
+    "from": 420.72,
+    "to": 422.41,
+    "sid": 165,
+    "location": 2,
+    "content": "比兔子还快",
+    "music": 0
+  },
+  {
+    "from": 422.41,
+    "to": 424.37,
+    "sid": 166,
+    "location": 2,
+    "content": "这下轮到山姆倒霉了",
+    "music": 0
+  },
+  {
+    "from": 424.37,
+    "to": 425.77,
+    "sid": 167,
+    "location": 2,
+    "content": "他只能屏住呼吸",
+    "music": 0
+  },
+  {
+    "from": 425.77,
+    "to": 427.03,
+    "sid": 168,
+    "location": 2,
+    "content": "一动不敢动",
+    "music": 0
+  },
+  {
+    "from": 427.03,
+    "to": 430.85,
+    "sid": 169,
+    "location": 2,
+    "content": "眼睁睁看着黑手印在自个儿身边爬来爬去",
+    "music": 0
+  },
+  {
+    "from": 430.85,
+    "to": 432.09,
+    "sid": 170,
+    "location": 2,
+    "content": "这滋味",
+    "music": 0
+  },
+  {
+    "from": 432.09,
+    "to": 434.67,
+    "sid": 171,
+    "location": 2,
+    "content": "钝刀杀人也不过如此",
+    "music": 0
+  },
+  {
+    "from": 434.67,
+    "to": 437.38,
+    "sid": 172,
+    "location": 2,
+    "content": "别到最后自己是饿死的",
+    "music": 0
+  },
+  {
+    "from": 437.38,
+    "to": 439.96,
+    "sid": 173,
+    "location": 2,
+    "content": "赶紧连上BB看看情况吧",
+    "music": 0
+  },
+  {
+    "from": 439.96,
+    "to": 441.98,
+    "sid": 174,
+    "location": 2,
+    "content": "谁知道刚一连上",
+    "music": 0
+  },
+  {
+    "from": 441.98,
+    "to": 444.61,
+    "sid": 175,
+    "location": 2,
+    "content": "山姆就仿佛变成了BB一样",
+    "music": 0
+  },
+  {
+    "from": 444.61,
+    "to": 449.25,
+    "sid": 176,
+    "location": 2,
+    "content": "隔着育婴仓看见一个看起来就很会做人的男的",
+    "music": 0
+  },
+  {
+    "from": 450.25,
+    "to": 452.169,
+    "sid": 177,
+    "location": 2,
+    "content": "正对着BB说着什么",
+    "music": 0
+  },
+  {
+    "from": 452.169,
+    "to": 455.73,
+    "sid": 178,
+    "location": 2,
+    "content": "下一秒他又重新恢复过来",
+    "music": 0
+  },
+  {
+    "from": 455.73,
+    "to": 458.03,
+    "sid": 179,
+    "location": 2,
+    "content": "可就是这打闪认针的功夫",
+    "music": 0
+  },
+  {
+    "from": 458.03,
+    "to": 460.37,
+    "sid": 180,
+    "location": 2,
+    "content": "一只黑手印已经发现了",
+    "music": 0
+  },
+  {
+    "from": 460.37,
+    "to": 463.19,
+    "sid": 181,
+    "location": 2,
+    "content": "他朝着他慢慢爬过来",
+    "music": 0
+  },
+  {
+    "from": 463.47,
+    "to": 465.23,
+    "sid": 182,
+    "location": 2,
+    "content": "山姆当时就吓尿了",
+    "music": 0
+  },
+  {
+    "from": 465.23,
+    "to": 467.53,
+    "sid": 183,
+    "location": 2,
+    "content": "那BT当时也呆住了",
+    "music": 0
+  },
+  {
+    "from": 467.53,
+    "to": 468.89,
+    "sid": 184,
+    "location": 2,
+    "content": "犹豫了一下",
+    "music": 0
+  },
+  {
+    "from": 468.89,
+    "to": 470.48,
+    "sid": 185,
+    "location": 2,
+    "content": "竟然退走了",
+    "music": 0
+  },
+  {
+    "from": 470.48,
+    "to": 474.64,
+    "sid": 186,
+    "location": 2,
+    "content": "山姆心说这年头BT都这么讲卫生了吗",
+    "music": 0
+  },
+  {
+    "from": 474.64,
+    "to": 478.63,
+    "sid": 187,
+    "location": 2,
+    "content": "还是说自己有当年孙悟空大闹天崩的能力",
+    "music": 0
+  },
+  {
+    "from": 478.63,
+    "to": 479.87,
+    "sid": 188,
+    "location": 2,
+    "content": "不管怎么着",
+    "music": 0
+  },
+  {
+    "from": 479.87,
+    "to": 482.909,
+    "sid": 189,
+    "location": 2,
+    "content": "他是长长的舒了口气",
+    "music": 0
+  },
+  {
+    "from": 483.189,
+    "to": 484.429,
+    "sid": 190,
+    "location": 2,
+    "content": "刚想站起来",
+    "music": 0
+  },
+  {
+    "from": 484.429,
+    "to": 486.569,
+    "sid": 191,
+    "location": 2,
+    "content": "忽然发现怀里的BB不对劲",
+    "music": 0
+  },
+  {
+    "from": 486.569,
+    "to": 488.649,
+    "sid": 192,
+    "location": 2,
+    "content": "观测窗一片漆黑",
+    "music": 0
+  },
+  {
+    "from": 488.649,
+    "to": 490.429,
+    "sid": 193,
+    "location": 2,
+    "content": "小家伙是一动不动",
+    "music": 0
+  },
+  {
+    "from": 490.429,
+    "to": 492.3,
+    "sid": 194,
+    "location": 2,
+    "content": "跟死了一样",
+    "music": 0
+  },
+  {
+    "from": 492.54,
+    "to": 493.82,
+    "sid": 195,
+    "location": 2,
+    "content": "山姆吓坏了",
+    "music": 0
+  },
+  {
+    "from": 493.82,
+    "to": 495.83,
+    "sid": 196,
+    "location": 2,
+    "content": "赶紧联系王仁",
+    "music": 0
+  },
+  {
+    "from": 495.83,
+    "to": 497.63,
+    "sid": 197,
+    "location": 2,
+    "content": "亡人倒是镇定",
+    "music": 0
+  },
+  {
+    "from": 497.63,
+    "to": 499.67,
+    "sid": 198,
+    "location": 2,
+    "content": "小家伙只是压力过大",
+    "music": 0
+  },
+  {
+    "from": 499.67,
+    "to": 500.95,
+    "sid": 199,
+    "location": 2,
+    "content": "自体中毒了",
+    "music": 0
+  },
+  {
+    "from": 500.95,
+    "to": 502.43,
+    "sid": 200,
+    "location": 2,
+    "content": "你到配送中心",
+    "music": 0
+  },
+  {
+    "from": 502.43,
+    "to": 504.3,
+    "sid": 201,
+    "location": 2,
+    "content": "我能修好它",
+    "music": 0
+  },
+  {
+    "from": 504.46,
+    "to": 508.27,
+    "sid": 202,
+    "location": 2,
+    "content": "山姆一听玩命的就往配送中心跑",
+    "music": 0
+  },
+  {
+    "from": 508.27,
+    "to": 509.85,
+    "sid": 203,
+    "location": 2,
+    "content": "紧赶慢赶",
+    "music": 0
+  },
+  {
+    "from": 509.85,
+    "to": 512.31,
+    "sid": 204,
+    "location": 2,
+    "content": "总算是到了配送中心",
+    "music": 0
+  },
+  {
+    "from": 512.31,
+    "to": 515.47,
+    "sid": 205,
+    "location": 2,
+    "content": "亡仁的全息影像也出现在那",
+    "music": 0
+  },
+  {
+    "from": 515.47,
+    "to": 517.45,
+    "sid": 206,
+    "location": 2,
+    "content": "开始远程操作",
+    "music": 0
+  },
+  {
+    "from": 517.45,
+    "to": 519.05,
+    "sid": 207,
+    "location": 2,
+    "content": "山姆按照他的指挥",
+    "music": 0
+  },
+  {
+    "from": 519.05,
+    "to": 521.85,
+    "sid": 208,
+    "location": 2,
+    "content": "把BB往一个叫育儿箱的设备上",
+    "music": 0
+  },
+  {
+    "from": 521.85,
+    "to": 526,
+    "sid": 209,
+    "location": 2,
+    "content": "一连只见园仓里冒出红光",
+    "music": 0
+  },
+  {
+    "from": 526,
+    "to": 530.48,
+    "sid": 210,
+    "location": 2,
+    "content": "亡人说这儿的环境跟他在重症病房里的植物人",
+    "music": 0
+  },
+  {
+    "from": 530.48,
+    "to": 532.26,
+    "sid": 211,
+    "location": 2,
+    "content": "母亲的子宫一致",
+    "music": 0
+  },
+  {
+    "from": 532.26,
+    "to": 535.57,
+    "sid": 212,
+    "location": 2,
+    "content": "让BB以为自己一直在子宫里",
+    "music": 0
+  },
+  {
+    "from": 535.57,
+    "to": 537.85,
+    "sid": 213,
+    "location": 2,
+    "content": "这叫什么善意的谎言",
+    "music": 0
+  },
+  {
+    "from": 537.85,
+    "to": 539.49,
+    "sid": 214,
+    "location": 2,
+    "content": "就跟我常跟于老师说",
+    "music": 0
+  },
+  {
+    "from": 539.49,
+    "to": 542.13,
+    "sid": 215,
+    "location": 2,
+    "content": "对郭小宝好一点是一个道理",
+    "music": 0
+  },
+  {
+    "from": 542.33,
+    "to": 544.65,
+    "sid": 216,
+    "location": 2,
+    "content": "只见园舱里亮起一阵光",
+    "music": 0
+  },
+  {
+    "from": 544.65,
+    "to": 546.51,
+    "sid": 217,
+    "location": 2,
+    "content": "BB又活过来了",
+    "music": 0
+  },
+  {
+    "from": 546.51,
+    "to": 548.819,
+    "sid": 218,
+    "location": 2,
+    "content": "还冲山姆笑了笑",
+    "music": 0
+  },
+  {
+    "from": 548.819,
+    "to": 552.33,
+    "sid": 219,
+    "location": 2,
+    "content": "山姆这心啊才算放回肚子里",
+    "music": 0
+  },
+  {
+    "from": 552.33,
+    "to": 554.27,
+    "sid": 220,
+    "location": 2,
+    "content": "王仁却警告他说",
+    "music": 0
+  },
+  {
+    "from": 554.27,
+    "to": 556.69,
+    "sid": 221,
+    "location": 2,
+    "content": "别对BB投入太多感情",
+    "music": 0
+  },
+  {
+    "from": 556.69,
+    "to": 558.05,
+    "sid": 222,
+    "location": 2,
+    "content": "他就是个设备",
+    "music": 0
+  },
+  {
+    "from": 558.05,
+    "to": 560.42,
+    "sid": 223,
+    "location": 2,
+    "content": "用不了多久就得报废",
+    "music": 0
+  },
+  {
+    "from": 560.74,
+    "to": 562.4,
+    "sid": 224,
+    "location": 2,
+    "content": "山姆心里不乐意了",
+    "music": 0
+  },
+  {
+    "from": 562.4,
+    "to": 563.74,
+    "sid": 225,
+    "location": 2,
+    "content": "你才报废呢",
+    "music": 0
+  },
+  {
+    "from": 563.74,
+    "to": 565.66,
+    "sid": 226,
+    "location": 2,
+    "content": "你全家都报废",
+    "music": 0
+  },
+  {
+    "from": 565.94,
+    "to": 567.44,
+    "sid": 227,
+    "location": 2,
+    "content": "心里是这么想",
+    "music": 0
+  },
+  {
+    "from": 567.44,
+    "to": 569.63,
+    "sid": 228,
+    "location": 2,
+    "content": "嘴上可不能说",
+    "music": 0
+  },
+  {
+    "from": 569.63,
+    "to": 572.51,
+    "sid": 229,
+    "location": 2,
+    "content": "反倒是跟亡仁说起了自己的体液",
+    "music": 0
+  },
+  {
+    "from": 572.51,
+    "to": 574.569,
+    "sid": 230,
+    "location": 2,
+    "content": "好像对BT有影响",
+    "music": 0
+  },
+  {
+    "from": 574.569,
+    "to": 576.429,
+    "sid": 231,
+    "location": 2,
+    "content": "王仁一听来了兴致",
+    "music": 0
+  },
+  {
+    "from": 576.429,
+    "to": 580.12,
+    "sid": 232,
+    "location": 2,
+    "content": "觉得这可以用来研究对抗BT的武器",
+    "music": 0
+  },
+  {
+    "from": 580.12,
+    "to": 583.44,
+    "sid": 233,
+    "location": 2,
+    "content": "决定联系布里吉斯的BT研究专家",
+    "music": 0
+  },
+  {
+    "from": 583.44,
+    "to": 587.319,
+    "sid": 234,
+    "location": 2,
+    "content": "新人以及天才工程师妈妈",
+    "music": 0
+  },
+  {
+    "from": 587.319,
+    "to": 590.959,
+    "sid": 235,
+    "location": 2,
+    "content": "等到山姆来到东部地区最后一个节点城",
+    "music": 0
+  },
+  {
+    "from": 590.959,
+    "to": 592.819,
+    "sid": 236,
+    "location": 2,
+    "content": "港口节点城的时候",
+    "music": 0
+  },
+  {
+    "from": 592.819,
+    "to": 594.96,
+    "sid": 237,
+    "location": 2,
+    "content": "研究已经有了成果",
+    "music": 0
+  },
+  {
+    "from": 594.96,
+    "to": 598.9,
+    "sid": 238,
+    "location": 2,
+    "content": "马马发现山姆的体液跟BT8字不合",
+    "music": 0
+  },
+  {
+    "from": 598.9,
+    "to": 600.95,
+    "sid": 239,
+    "location": 2,
+    "content": "互相之间犯冲",
+    "music": 0
+  },
+  {
+    "from": 600.95,
+    "to": 606.44,
+    "sid": 240,
+    "location": 2,
+    "content": "便用山姆的血液和大小便制造出了对BT武器",
+    "music": 0
+  },
+  {
+    "from": 606.44,
+    "to": 608.26,
+    "sid": 241,
+    "location": 2,
+    "content": "您说就这效率",
+    "music": 0
+  },
+  {
+    "from": 608.26,
+    "to": 611.18,
+    "sid": 242,
+    "location": 2,
+    "content": "美国政府效率部不得馋哭喽",
+    "music": 0
+  },
+  {
+    "from": 611.18,
+    "to": 614.91,
+    "sid": 243,
+    "location": 2,
+    "content": "哎老马老马有了武器",
+    "music": 0
+  },
+  {
+    "from": 614.91,
+    "to": 616.23,
+    "sid": 244,
+    "location": 2,
+    "content": "这下可好了",
+    "music": 0
+  },
+  {
+    "from": 616.23,
+    "to": 618.25,
+    "sid": 245,
+    "location": 2,
+    "content": "山姆以后不仅是快递员了",
+    "music": 0
+  },
+  {
+    "from": 618.25,
+    "to": 620.45,
+    "sid": 246,
+    "location": 2,
+    "content": "还是移动的军火库",
+    "music": 0
+  },
+  {
+    "from": 620.45,
+    "to": 622.99,
+    "sid": 247,
+    "location": 2,
+    "content": "但这武器唯独有一点不好",
+    "music": 0
+  },
+  {
+    "from": 622.99,
+    "to": 624.91,
+    "sid": 248,
+    "location": 2,
+    "content": "就是原材料太有限了",
+    "music": 0
+  },
+  {
+    "from": 624.91,
+    "to": 626.73,
+    "sid": 249,
+    "location": 2,
+    "content": "一场仗打下来",
+    "music": 0
+  },
+  {
+    "from": 626.73,
+    "to": 628.79,
+    "sid": 250,
+    "location": 2,
+    "content": "山姆是要么贫血",
+    "music": 0
+  },
+  {
+    "from": 628.79,
+    "to": 631.42,
+    "sid": 251,
+    "location": 2,
+    "content": "要么肚子里一点都不剩",
+    "music": 0
+  },
+  {
+    "from": 631.66,
+    "to": 633.92,
+    "sid": 252,
+    "location": 2,
+    "content": "亡仁还从一边支招呢",
+    "music": 0
+  },
+  {
+    "from": 633.92,
+    "to": 636.47,
+    "sid": 253,
+    "location": 2,
+    "content": "要不咱试试红糖腌人参",
+    "music": 0
+  },
+  {
+    "from": 636.47,
+    "to": 639.99,
+    "sid": 254,
+    "location": 2,
+    "content": "山姆心说那才真是一点都出不来了",
+    "music": 0
+  },
+  {
+    "from": 639.99,
+    "to": 641.55,
+    "sid": 255,
+    "location": 2,
+    "content": "正说着呢",
+    "music": 0
+  },
+  {
+    "from": 641.55,
+    "to": 643.39,
+    "sid": 256,
+    "location": 2,
+    "content": "怪事发生了",
+    "music": 0
+  },
+  {
+    "from": 643.39,
+    "to": 647.83,
+    "sid": 257,
+    "location": 2,
+    "content": "按理说这节点城里面开罗尔浓度一般很低",
+    "music": 0
+  },
+  {
+    "from": 647.83,
+    "to": 651.05,
+    "sid": 258,
+    "location": 2,
+    "content": "轻易的是不会有什么时间雨的",
+    "music": 0
+  },
+  {
+    "from": 651.05,
+    "to": 652.23,
+    "sid": 259,
+    "location": 2,
+    "content": "可这会儿呢",
+    "music": 0
+  },
+  {
+    "from": 652.23,
+    "to": 656.23,
+    "sid": 260,
+    "location": 2,
+    "content": "层层叠叠的乌云是把整个城市都罩住了",
+    "music": 0
+  },
+  {
+    "from": 656.23,
+    "to": 657.69,
+    "sid": 261,
+    "location": 2,
+    "content": "天跟漏了似的",
+    "music": 0
+  },
+  {
+    "from": 657.69,
+    "to": 658.94,
+    "sid": 262,
+    "location": 2,
+    "content": "开始下雨",
+    "music": 0
+  },
+  {
+    "from": 658.94,
+    "to": 661.48,
+    "sid": 263,
+    "location": 2,
+    "content": "就在山姆纳闷是怎么回事的时候",
+    "music": 0
+  },
+  {
+    "from": 661.48,
+    "to": 664.3,
+    "sid": 264,
+    "location": 2,
+    "content": "无数个BT出现在他的面前",
+    "music": 0
+  },
+  {
+    "from": 664.3,
+    "to": 665.78,
+    "sid": 265,
+    "location": 2,
+    "content": "与他们一块出现的",
+    "music": 0
+  },
+  {
+    "from": 665.78,
+    "to": 668.16,
+    "sid": 266,
+    "location": 2,
+    "content": "还有那个戴着金色骷髅面具的男人",
+    "music": 0
+  },
+  {
+    "from": 668.16,
+    "to": 671.41,
+    "sid": 267,
+    "location": 2,
+    "content": "极端狂人的首领希格斯",
+    "music": 0
+  },
+  {
+    "from": 671.41,
+    "to": 674.579,
+    "sid": 268,
+    "location": 2,
+    "content": "这希格斯那叫一个嚣张",
+    "music": 0
+  },
+  {
+    "from": 674.579,
+    "to": 677.219,
+    "sid": 269,
+    "location": 2,
+    "content": "脚踩焦油悬在半空",
+    "music": 0
+  },
+  {
+    "from": 677.219,
+    "to": 677.939,
+    "sid": 270,
+    "location": 2,
+    "content": "身后",
+    "music": 0
+  },
+  {
+    "from": 677.939,
+    "to": 680.619,
+    "sid": 271,
+    "location": 2,
+    "content": "还跟着一群海洋生物的尸体",
+    "music": 0
+  },
+  {
+    "from": 680.619,
+    "to": 683.13,
+    "sid": 272,
+    "location": 2,
+    "content": "跟龙王爷出巡似的",
+    "music": 0
+  },
+  {
+    "from": 683.13,
+    "to": 686.43,
+    "sid": 273,
+    "location": 2,
+    "content": "山姆亚美丽根本就不是什么救世主",
+    "music": 0
+  },
+  {
+    "from": 686.43,
+    "to": 687.71,
+    "sid": 274,
+    "location": 2,
+    "content": "山姆说对",
+    "music": 0
+  },
+  {
+    "from": 687.71,
+    "to": 690.11,
+    "sid": 275,
+    "location": 2,
+    "content": "从来就没有什么救世主",
+    "music": 0
+  },
+  {
+    "from": 690.11,
+    "to": 692.46,
+    "sid": 276,
+    "location": 2,
+    "content": "也不靠神仙皇帝",
+    "music": 0
+  },
+  {
+    "from": 692.7,
+    "to": 693.58,
+    "sid": 277,
+    "location": 2,
+    "content": "希格斯说",
+    "music": 0
+  },
+  {
+    "from": 693.58,
+    "to": 695.68,
+    "sid": 278,
+    "location": 2,
+    "content": "谁跟你说国际歌了",
+    "music": 0
+  },
+  {
+    "from": 695.68,
+    "to": 698.22,
+    "sid": 279,
+    "location": 2,
+    "content": "亚美丽是灭绝体",
+    "music": 0
+  },
+  {
+    "from": 698.22,
+    "to": 701.08,
+    "sid": 280,
+    "location": 2,
+    "content": "是能毁灭世界的存在",
+    "music": 0
+  },
+  {
+    "from": 701.08,
+    "to": 704.28,
+    "sid": 281,
+    "location": 2,
+    "content": "而这就是死亡搁浅的意义所在",
+    "music": 0
+  },
+  {
+    "from": 704.28,
+    "to": 706.9,
+    "sid": 282,
+    "location": 2,
+    "content": "它要加速人类的灭亡",
+    "music": 0
+  },
+  {
+    "from": 706.9,
+    "to": 709.98,
+    "sid": 283,
+    "location": 2,
+    "content": "说完他是潇洒离去",
+    "music": 0
+  },
+  {
+    "from": 709.98,
+    "to": 711.89,
+    "sid": 284,
+    "location": 2,
+    "content": "临走还一挥手",
+    "music": 0
+  },
+  {
+    "from": 711.89,
+    "to": 716.13,
+    "sid": 285,
+    "location": 2,
+    "content": "从焦油海里召唤出一头巨大无比的海怪",
+    "music": 0
+  },
+  {
+    "from": 716.13,
+    "to": 720.11,
+    "sid": 286,
+    "location": 2,
+    "content": "BT这BT脑袋比屋子小不了多少",
+    "music": 0
+  },
+  {
+    "from": 720.11,
+    "to": 722.43,
+    "sid": 287,
+    "location": 2,
+    "content": "触手够14列火车那么长",
+    "music": 0
+  },
+  {
+    "from": 722.43,
+    "to": 724.65,
+    "sid": 288,
+    "location": 2,
+    "content": "俩眼睛跟探照灯似的",
+    "music": 0
+  },
+  {
+    "from": 724.65,
+    "to": 726.77,
+    "sid": 289,
+    "location": 2,
+    "content": "要不是山姆亲眼得见",
+    "music": 0
+  },
+  {
+    "from": 726.77,
+    "to": 729.35,
+    "sid": 290,
+    "location": 2,
+    "content": "准以为希格斯是云山雾罩",
+    "music": 0
+  },
+  {
+    "from": 729.35,
+    "to": 732.069,
+    "sid": 291,
+    "location": 2,
+    "content": "说话着三不着两呢",
+    "music": 0
+  },
+  {
+    "from": 732.229,
+    "to": 736.029,
+    "sid": 292,
+    "location": 2,
+    "content": "下一秒这BT张着血盆大口就过来了",
+    "music": 0
+  },
+  {
+    "from": 736.029,
+    "to": 737.089,
+    "sid": 293,
+    "location": 2,
+    "content": "山姆一看",
+    "music": 0
+  },
+  {
+    "from": 737.089,
+    "to": 739.339,
+    "sid": 294,
+    "location": 2,
+    "content": "嘿来活了",
+    "music": 0
+  },
+  {
+    "from": 739.339,
+    "to": 740.779,
+    "sid": 295,
+    "location": 2,
+    "content": "自己拿到武器",
+    "music": 0
+  },
+  {
+    "from": 740.779,
+    "to": 742.659,
+    "sid": 296,
+    "location": 2,
+    "content": "正好没机会练手呢",
+    "music": 0
+  },
+  {
+    "from": 742.659,
+    "to": 743.619,
+    "sid": 297,
+    "location": 2,
+    "content": "天堂有路",
+    "music": 0
+  },
+  {
+    "from": 743.619,
+    "to": 744.379,
+    "sid": 298,
+    "location": 2,
+    "content": "你不走",
+    "music": 0
+  },
+  {
+    "from": 744.379,
+    "to": 745.219,
+    "sid": 299,
+    "location": 2,
+    "content": "地狱无门",
+    "music": 0
+  },
+  {
+    "from": 745.219,
+    "to": 746.16,
+    "sid": 300,
+    "location": 2,
+    "content": "你自来投",
+    "music": 0
+  },
+  {
+    "from": 746.16,
+    "to": 749.31,
+    "sid": 301,
+    "location": 2,
+    "content": "说着就拿代谢手榴弹往上招呼",
+    "music": 0
+  },
+  {
+    "from": 749.31,
+    "to": 751.85,
+    "sid": 302,
+    "location": 2,
+    "content": "只见那BT身上呲啦一声",
+    "music": 0
+  },
+  {
+    "from": 751.85,
+    "to": 754.91,
+    "sid": 303,
+    "location": 2,
+    "content": "紧接着就是嗷的一声惨叫",
+    "music": 0
+  },
+  {
+    "from": 754.91,
+    "to": 757.76,
+    "sid": 304,
+    "location": 2,
+    "content": "跟那动画片里的汤姆猫似的",
+    "music": 0
+  },
+  {
+    "from": 757.76,
+    "to": 761.339,
+    "sid": 305,
+    "location": 2,
+    "content": "山姆一看有戏是信心大增",
+    "music": 0
+  },
+  {
+    "from": 761.339,
+    "to": 763.659,
+    "sid": 306,
+    "location": 2,
+    "content": "一个接一个扔手榴弹",
+    "music": 0
+  },
+  {
+    "from": 763.659,
+    "to": 766.939,
+    "sid": 307,
+    "location": 2,
+    "content": "跟不要钱似的打的BT那是抱头鼠窜",
+    "music": 0
+  },
+  {
+    "from": 766.939,
+    "to": 769.44,
+    "sid": 308,
+    "location": 2,
+    "content": "心说咱们到底谁才是BT啊",
+    "music": 0
+  },
+  {
+    "from": 769.44,
+    "to": 770.88,
+    "sid": 309,
+    "location": 2,
+    "content": "没几个回合",
+    "music": 0
+  },
+  {
+    "from": 770.88,
+    "to": 772.92,
+    "sid": 310,
+    "location": 2,
+    "content": "这BT就遭不住了",
+    "music": 0
+  },
+  {
+    "from": 772.92,
+    "to": 774.78,
+    "sid": 311,
+    "location": 2,
+    "content": "全身开始分解",
+    "music": 0
+  },
+  {
+    "from": 774.78,
+    "to": 776.64,
+    "sid": 312,
+    "location": 2,
+    "content": "化作点点金光",
+    "music": 0
+  },
+  {
+    "from": 776.64,
+    "to": 779.25,
+    "sid": 313,
+    "location": 2,
+    "content": "成了一堆开罗尔晶体",
+    "music": 0
+  },
+  {
+    "from": 779.25,
+    "to": 781.47,
+    "sid": 314,
+    "location": 2,
+    "content": "咱这山姆老师也是少说",
+    "music": 0
+  },
+  {
+    "from": 781.47,
+    "to": 783.03,
+    "sid": 315,
+    "location": 2,
+    "content": "瘦了得有十多斤",
+    "music": 0
+  },
+  {
+    "from": 783.03,
+    "to": 785.599,
+    "sid": 316,
+    "location": 2,
+    "content": "霎时间是全程欢呼",
+    "music": 0
+  },
+  {
+    "from": 785.599,
+    "to": 787.719,
+    "sid": 317,
+    "location": 2,
+    "content": "那叫一个锣鼓喧天",
+    "music": 0
+  },
+  {
+    "from": 787.719,
+    "to": 789.569,
+    "sid": 318,
+    "location": 2,
+    "content": "鞭炮齐鸣",
+    "music": 0
+  },
+  {
+    "from": 789.889,
+    "to": 794.209,
+    "sid": 319,
+    "location": 2,
+    "content": "这毕竟是人类有史以来第一次把BT拉回名摊",
+    "music": 0
+  },
+  {
+    "from": 794.209,
+    "to": 798.53,
+    "sid": 320,
+    "location": 2,
+    "content": "大家都说山姆是有史以来拉的最好的",
+    "music": 0
+  },
+  {
+    "from": 798.53,
+    "to": 799.87,
+    "sid": 321,
+    "location": 2,
+    "content": "咱们这山姆老师",
+    "music": 0
+  },
+  {
+    "from": 799.87,
+    "to": 803.17,
+    "sid": 322,
+    "location": 2,
+    "content": "总算是解决了港口节点城的危机",
+    "music": 0
+  },
+  {
+    "from": 803.17,
+    "to": 807.41,
+    "sid": 323,
+    "location": 2,
+    "content": "把整个东部地区全部连接在了一起",
+    "music": 0
+  },
+  {
+    "from": 807.73,
+    "to": 809.29,
+    "sid": 324,
+    "location": 2,
+    "content": "可要再往西走",
+    "music": 0
+  },
+  {
+    "from": 809.29,
+    "to": 813.45,
+    "sid": 325,
+    "location": 2,
+    "content": "就得想办法度过眼前一片巨大的湖",
+    "music": 0
+  },
+  {
+    "from": 813.45,
+    "to": 817.23,
+    "sid": 326,
+    "location": 2,
+    "content": "这壶其实就是之前爆炸留下的大坑",
+    "music": 0
+  },
+  {
+    "from": 817.23,
+    "to": 819.78,
+    "sid": 327,
+    "location": 2,
+    "content": "如今积满了水和焦油",
+    "music": 0
+  },
+  {
+    "from": 819.78,
+    "to": 822.72,
+    "sid": 328,
+    "location": 2,
+    "content": "就是不知道下头有没有个地穴要探",
+    "music": 0
+  },
+  {
+    "from": 822.72,
+    "to": 824.5,
+    "sid": 329,
+    "location": 2,
+    "content": "要想过这片湖",
+    "music": 0
+  },
+  {
+    "from": 824.5,
+    "to": 825.56,
+    "sid": 330,
+    "location": 2,
+    "content": "单靠腿",
+    "music": 0
+  },
+  {
+    "from": 825.56,
+    "to": 827.44,
+    "sid": 331,
+    "location": 2,
+    "content": "这显然是不现实的",
+    "music": 0
+  },
+  {
+    "from": 827.44,
+    "to": 828.93,
+    "sid": 332,
+    "location": 2,
+    "content": "得坐船",
+    "music": 0
+  },
+  {
+    "from": 829.21,
+    "to": 831.89,
+    "sid": 333,
+    "location": 2,
+    "content": "可原本港口结点城的船呢",
+    "music": 0
+  },
+  {
+    "from": 831.89,
+    "to": 834.85,
+    "sid": 334,
+    "location": 2,
+    "content": "让极端狂人们都给炸的差不多了",
+    "music": 0
+  },
+  {
+    "from": 834.85,
+    "to": 837.93,
+    "sid": 335,
+    "location": 2,
+    "content": "就在山姆一筹莫展的时候",
+    "music": 0
+  },
+  {
+    "from": 837.93,
+    "to": 840.03,
+    "sid": 336,
+    "location": 2,
+    "content": "忽然有人喊住了他",
+    "music": 0
+  },
+  {
+    "from": 840.03,
+    "to": 841.39,
+    "sid": 337,
+    "location": 2,
+    "content": "山姆回头一看",
+    "music": 0
+  },
+  {
+    "from": 841.39,
+    "to": 843.11,
+    "sid": 338,
+    "location": 2,
+    "content": "不由得心中一凛",
+    "music": 0
+  },
+  {
+    "from": 843.11,
+    "to": 845.2,
+    "sid": 339,
+    "location": 2,
+    "content": "竟然是他",
+    "music": 0
+  }
+]
